@@ -95,21 +95,21 @@ to understand and follow
 1. You can subscribe to the newsletter by entering any character in the e-mail field.
    
 ## Most Wanted ##
-1. The store logo is shifted to the right relative to the position on the home page
+1. The store logo is shifted to the right relative to the position on the home page <a href= "https://drive.google.com/file/d/1D3vjZGd2lswLJFE65ZlXyjmCU6nZTd4r/view?usp=drive_link" target="_blank"> Check </a> 
 2. Items from the “Most wanted” can only be added to the cart in quantities of 99 or 100 pieces, after removing the minus sign in front of the quantity of products
 3. Next adding 99 or 100 pieces of product to the cart causes its quantity to increase incorrectly
 
 
 ## Categories ##
 1. Typo in the main panel "Catergries" instead of "Categories"
-2. In the drop-down menu, after displaying all products (ALL), most category photos are not displayed.
-3. The "Shoes" category also displays blouses
-4. In the "Featured" category, the "Merchantile - Blouse" product is not centered on the page (the remaining products in the categories are centered)
+2. In the drop-down menu, after displaying all products (ALL), most category photos are not displayed <a href= "" target="_blank"> Check </a> 
+3. The "Shoes" category also displays blouses <a href= "https://drive.google.com/file/d/1_qgF_SeePjTAklhAUs6Nuk-KwQGSB8O3/view?usp=drive_link" target="_blank"> Check </a> 
+4. In the "Featured" category, the "Merchantile - Blouse" product is not centered on the page (the remaining products in the categories are centered) <a href= "https://drive.google.com/file/d/1nFsFl521OKEh8dfd5JGXRHMVeasZto9r/view?usp=drive_link" target="_blank"> Check </a> 
 
 
 ## Products ##
 1. No option to choose product sizes
-2. The right and left arrows to go to the next photo don’t work
+2. The right and left arrows to go to the next photo don’t work <a href= "https://drive.google.com/file/d/1Qao-7crPwUv8UJTV03qj-jYZDBzf1re5/view?usp=drive_link" target="_blank"> Check </a> 
 3. After displaying the photo doesn’t work
    - zoom in and out
    - close photo use “x” button
