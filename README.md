@@ -67,9 +67,64 @@ to understand and follow
 
 # Bugs on e-commerce ⬇️
 ## Home Page ##
-1. Photos not displayed correctly https://drive.google.com/file/d/1xV4Smrj7ljvgBes2xJj5FteJ9izJ0mKB/view?usp=drive_link
-2. You cannot enter the product description after clicking on the photo.
-3. "Shop Now" and “Buy now” button on the home page redirecting to a non-existent page
-4. The "Learn more" button redirects to a page with a contact form.
-5. Arrows scrolling through products on the home page take the user to the top of the page
-6. When width: 990px; the menu changes from horizontal to vertical, the vertical menu doesn’t work
+1. Photos not displayed correctly <a href= "https://drive.google.com/file/d/1xV4Smrj7ljvgBes2xJj5FteJ9izJ0mKB/view?usp=drive_link" target="_blank"> Check </a> 
+3. You cannot enter the product description after clicking on the photo.
+4. "Shop Now" and “Buy now” button on the home page redirecting to a non-existent page
+5. The "Learn more" button redirects to a page with a contact form.
+6. Arrows scrolling through products on the home page take the user to the top of the page
+7. When width: 990px; the menu changes from horizontal to vertical, the vertical menu doesn’t work
+
+## About Us ##
+1. Clicking “About us” redirects you to the “Contact” website
+
+   
+## Contact ##
+1. Google map is not displayed properly, visible is only link 
+2. Unable to send a message via the contact form after entering the correct data - the message *"There was an error trying to send your message. Please try again later.”*
+3. The address of the contact reads “blabla” text https://skleptest.pl/test-contact-blablabla/
+
+
+## Blog ##
+1. After clicking on the menu “Blog” website, the message "nothing found" is displayed.
+2. There are three search fields on the page
+    - two search engines with magnifier
+    - one search engine with the “Search” button
+
+
+## Newsletter ##
+1. You can subscribe to the newsletter by entering any character in the e-mail field.
+   
+## Most Wanted ##
+1. The store logo is shifted to the right relative to the position on the home page
+2. Items from the “Most wanted” can only be added to the cart in quantities of 99 or 100 pieces, after removing the minus sign in front of the quantity of products
+3. Next adding 99 or 100 pieces of product to the cart causes its quantity to increase incorrectly
+
+
+## Categories ##
+1. Typo in the main panel "Catergries" instead of "Categories"
+2. In the drop-down menu, after displaying all products (ALL), most category photos are not displayed.
+3. The "Shoes" category also displays blouses
+4. In the "Featured" category, the "Merchantile - Blouse" product is not centered on the page (the remaining products in the categories are centered)
+
+
+## Products ##
+1. No option to choose product sizes
+2. The right and left arrows to go to the next photo don’t work
+3. After displaying the photo doesn’t work
+   - zoom in and out
+   - close photo use “x” button
+4. Product reviews are not displayed
+5. Sorting by price (low-high and high-low) doesn’t work <a href= "https://drive.google.com/file/d/144J6nukH21MJsYNbZpyrtNydbTFDzqs8/view?usp=drive_link" target="_blank"> Check </a> 
+6. After clicking "View cart" no action
+7. You can only access the product description by placing the product in the cart and then going to the product card
+
+## My Cart ##
+1. On the home page, the price in the cart will only be updated after clicking "My Cart" in the upper right corner.
+2. Product cannot be removed from cart using "X"
+3. You can only remove a product by reducing its quantity to 0 and then updating your cart.
+4. The "x" is not centered relative to the orange background
+5. After changing the quantity of the product in the cart (one or many) and clicking, the cart is updated. BUT "-" and "+", which were used to change the quantity of products, also disappear
+5. After updating the products in the cart to a 3-digit number, this value is not fully displayed in the "Quantity" field
+
+
+
