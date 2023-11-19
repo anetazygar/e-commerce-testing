@@ -43,26 +43,21 @@ correct (as applicable) in shopping cart
   - Add a valid discount code (if applicable) and
 check discount is applied correctly
   - Checkout process
-
-## Register form ##
-  - Check the form to make sure the layout is easy
-to understand and follow
-  - Check If required fields are clearly marked with an asterisk
-  - Register new account
     
-    
-
-
-## Login ##
-  - Login with valid data
-  - Login with valid username and an invalid password
-  - Forgot Password functionality
-  - "Remember me" functionality
-  - login when field is blank and submit button is clicked
-  - Verifay the messages for invalid login
-
 ## Subscription ##
   - subscribing to the newsletter
+
+    
+## Register form ##
+- account registration - new user registration <br>
+(test documentation in progress)
+
+## Login ##
+- user login
+- password reminder
+- password reset
+- saving login details <br>
+  (test documentation in progress)
 
 
 # Bugs on e-commerce ⬇️
