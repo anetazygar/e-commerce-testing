@@ -79,13 +79,13 @@ to understand and follow
 
    
 ## Contact ##
-1. Google map is not displayed properly, visible is only link 
-2. Unable to send a message via the contact form after entering the correct data - the message *"There was an error trying to send your message. Please try again later.”*
-3. The address of the contact reads “blabla” text https://skleptest.pl/test-contact-blablabla/
+1. Google map is not displayed properly, visible is only link  <a href= "https://drive.google.com/file/d/1IQ0zCwz7EJ5s_tY_oFRkNrduRHq8_LIb/view?usp=drive_link" target="_blank">
+2. Unable to send a message via the contact form after entering the correct data - the message *"There was an error trying to send your message. Please try again later.”* <a href= "https://drive.google.com/file/d/1gX3NGBsC-13SAaUSaeX3DAZjfq17E1qR/view?usp=drive_link" target="_blank">
+3. The address of the contact reads “blabla” text https://skleptest.pl/test-contact-blablabla/ <a href= "https://drive.google.com/file/d/1MPoPdoXk33DGh6h0xXteB3M7KlKKeKXw/view?usp=drive_link" target="_blank">
 
 
 ## Blog ##
-1. After clicking on the menu “Blog” website, the message "nothing found" is displayed.
+1. After clicking on the menu “Blog” website, the message "nothing found" is displayed. <a href= "https://drive.google.com/file/d/1q_pETiAoOQP6vaMQZZYX2EHqbHjtG7NI/view?usp=drive_link" target="_blank">
 2. There are three search fields on the page
     - two search engines with magnifier
     - one search engine with the “Search” button
@@ -102,14 +102,14 @@ to understand and follow
 
 ## Categories ##
 1. Typo in the main panel "Catergries" instead of "Categories"
-2. In the drop-down menu, after displaying all products (ALL), most category photos are not displayed <a href= "" target="_blank"> Check </a> 
+2. In the drop-down menu, after displaying all products (ALL), most category photos are not displayed <a href= "https://drive.google.com/file/d/1Qao-7crPwUv8UJTV03qj-jYZDBzf1re5/view?usp=drive_link" target="_blank"> Check </a> 
 3. The "Shoes" category also displays blouses <a href= "https://drive.google.com/file/d/1_qgF_SeePjTAklhAUs6Nuk-KwQGSB8O3/view?usp=drive_link" target="_blank"> Check </a> 
 4. In the "Featured" category, the "Merchantile - Blouse" product is not centered on the page (the remaining products in the categories are centered) <a href= "https://drive.google.com/file/d/1nFsFl521OKEh8dfd5JGXRHMVeasZto9r/view?usp=drive_link" target="_blank"> Check </a> 
 
 
 ## Products ##
-1. No option to choose product sizes
-2. The right and left arrows to go to the next photo don’t work <a href= "https://drive.google.com/file/d/1Qao-7crPwUv8UJTV03qj-jYZDBzf1re5/view?usp=drive_link" target="_blank"> Check </a> 
+1. No option to choose product sizes  <a href= "https://drive.google.com/file/d/1IxTN01Z-P9UFaRjQycEUhE9gmfInnIs9/view?usp=drive_link" target="_blank">
+2. The right and left arrows to go to the next photo don’t work <a href= "https://drive.google.com/file/d/1XHcnHtryBIrS_EQSjR6asYbh8FsPFtY0/view?usp=drive_link" target="_blank"> Check </a> 
 3. After displaying the photo doesn’t work
    - zoom in and out
    - close photo use “x” button
@@ -122,7 +122,7 @@ to understand and follow
 1. On the home page, the price in the cart will only be updated after clicking "My Cart" in the upper right corner.
 2. Product cannot be removed from cart using "X"
 3. You can only remove a product by reducing its quantity to 0 and then updating your cart.
-4. The "x" is not centered relative to the orange background
+4. The "x" is not centered relative to the orange background <a href= "https://drive.google.com/file/d/1-6ryrTsKfbuXSq2cW7hlusJT4wicIsJv/view?usp=drive_link" target="_blank">
 5. After changing the quantity of the product in the cart (one or many) and clicking, the cart is updated. BUT "-" and "+", which were used to change the quantity of products, also disappear
 5. After updating the products in the cart to a 3-digit number, this value is not fully displayed in the "Quantity" field
 
