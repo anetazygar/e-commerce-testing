@@ -121,5 +121,9 @@ check discount is applied correctly
 5. After changing the quantity of the product in the cart (one or many) and clicking, the cart is updated BUT "-" and "+", which were used to change the quantity of products, also disappear <a href= "https://drive.google.com/file/d/1wf47cmer4_EsAZxqvWQ80bUqlcpUQv39/view?usp=drive_link" target="_blank"> Check </a> 
 5. After updating the products in the cart to a 3-digit number, this value is not fully displayed in the "Quantity" field <a href= "https://drive.google.com/file/d/1DrQ_ywkaF5e3Dz2HNtB_S-W0wBXUUQBl/view?usp=drive_link" target="_blank"> Check </a> 
 
+## Checkout Process and Payment System ##
+ 1. Checkout - Select Shipping new address doesn't work <a href= "https://drive.google.com/file/d/1sxcJq8sRoCUt4fDRkd6_KPYsWUBFdQwT/view?usp=drive_link" target="_blank"> Check </a>
+ 2. Order received - Photos of purchased products are not displayed <a href= "https://drive.google.com/file/d/1HZQeCKI5wdrdz3bkazL7LFj3tNVvxgpq/view?usp=drive_link" target="_blank"> Check </a>
+ 3. Order received - Button "Print" doesn't work
 
 
