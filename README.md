@@ -6,6 +6,7 @@ Link to website https://skleptest.pl/
 Website for shopping clothes and accessories.*
 
 # Functionality Tests ⬇️
+Funcionality in E-commerce website: 
 
 ## Main Page ##
   - Home page
@@ -48,17 +49,20 @@ check discount is applied correctly
   - subscribing to the newsletter
 
     
-## Register form ##
-- account registration - new user registration <br>
-(test documentation in progress)
+## Register form ## 
+  - account registration - new user registration <br>
+  
+➡️ <a href= "https://drive.google.com/file/d/10RaLQdCzUZHAJjkjMFJUL4vulFK5Agzk/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
+(bug report in Jira - in progress)
 
-## Login ##
-- user login
-- password reminder
-- password reset
-- saving login details <br>
-  (test documentation in progress)
-
+## Login ## 
+  - user login
+  - password reminder
+  - password reset
+  - saving login details <br>
+  
+➡️ <a href= "https://drive.google.com/file/d/176lr354Xq_b5jpuGaejnc7Uvsgn9qRZX/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
+(bug report in Jira - in progress)
 
 # Bugs on e-commerce ⬇️
 ## Home Page ##
