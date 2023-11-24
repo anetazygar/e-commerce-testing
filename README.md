@@ -53,7 +53,7 @@ check discount is applied correctly
   - account registration - new user registration <br>
   
 TEST DOCUMENTATION: <br>
-➡️ <a href= "https://drive.google.com/file/d/1kNhHYy3PZ8NAenef3fyl5rn9Pwz4Vsbc/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
+➡️ <a href= "https://drive.google.com/file/d/1kNhHYy3PZ8NAenef3fyl5rn9Pwz4Vsbc/view?usp=drive_link" target="_blank"> Test case </a> <br>
 ➡️ <a href= "https://drive.google.com/file/d/1hRUsFZrwWBDCOwpkB9l5iCFM9oeBJ4wT/view?usp=drive_link" target="_blank"> Bug in Jira </a> <br>
 
 
