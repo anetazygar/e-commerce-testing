@@ -61,7 +61,7 @@ check discount is applied correctly
   - password reset
   - saving login details <br>
   
-➡️ <a href= "https://drive.google.com/file/d/176lr354Xq_b5jpuGaejnc7Uvsgn9qRZX/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
+➡️ <a href= "https://drive.google.com/file/d/1NB9P6Qtra9NZn_jWex5wDeMPzBkWg9lX/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
 (bug report in Jira - in progress)
 
 # Bugs on e-commerce ⬇️
