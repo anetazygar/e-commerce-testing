@@ -52,7 +52,7 @@ check discount is applied correctly
 ## Register form ## 
   - account registration - new user registration <br>
   
-➡️ <a href= "https://drive.google.com/file/d/10RaLQdCzUZHAJjkjMFJUL4vulFK5Agzk/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
+➡️ <a href= "https://drive.google.com/file/d/1TIMb2xDBmvFA7YG6tYZuf4ZS_7q5FUI5/view?usp=drive_link" target="_blank"> TEST CASE </a> <br>
 (bug report in Jira - in progress)
 
 ## Login ## 
