@@ -62,7 +62,7 @@ check discount is applied correctly
   - saving login details <br>
   
 TEST DOCUMENTATION: <br>
-➡️ <a href= "https://drive.google.com/file/d/1NB9P6Qtra9NZn_jWex5wDeMPzBkWg9lX/view?usp=drive_link" target="_blank"> Test case CASE </a> <br>
+➡️ <a href= "https://drive.google.com/file/d/1NB9P6Qtra9NZn_jWex5wDeMPzBkWg9lX/view?usp=drive_link" target="_blank"> Test case </a> <br>
 ➡️ <a href= "https://drive.google.com/drive/folders/1WTzOcWqUarFlABrgnGsWLk49D8u9kj_h?usp=drive_link" target="_blank"> Bug in JIRA - "Remember me" functionality doesn't work </a> <br>
 ➡️ <a href= "https://drive.google.com/file/d/1LbLj389wB4Dwm2A4JWxo9xi2heANvi2m/view?usp=drive_link" target="_blank"> Bug in JIRA - reset password doesn't work </a> <br>
 ➡️ <a href= "https://drive.google.com/file/d/1Y-DaZgsILoFFUsgUhCxoRCiF-vguHLfK/view?usp=drive_link" target="_blank"> Bug in JIRA - changing password functionality doesn't work</a> <br>
